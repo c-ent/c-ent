@@ -1,13 +1,24 @@
 
-<p align="center">
-  Hello I am <a href="c-ent.github.io"> Elher Encarnacion </a>
+<div align="center">
+  Hello I am <a href="c-ent.github.io"> Elher Encarnacion </a> 👋
   </br>
   </br>
   「 A Software & Web Developer Student 」
-</p>
+  </br>
+  </br>
+
+  🌱 Interests:
+  <li>Web Development</li>
+  <li>Software Engineering</li>
+  <li>Game Development</li>
+  <li>Blockchain Development</li>
+
+  </br>
+  </div>
+
   
   <details align="center" class="details-example">
-    <summary>☰Click this to show my Github Details</summary>
+    <summary>☰ Github Details</summary>
   <samp>
     <a href="https://github.com/c-ent?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/c-ent?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
@@ -20,6 +31,6 @@
   </details>
   
 <p align="center">
-  By <a href="https://c-ent.github.io/">Cent</a>
+  📫 My Website <a href="https://c-ent.github.io/">https://c-ent.github.io</a>
 </p>    
 
