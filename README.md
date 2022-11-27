@@ -20,6 +20,7 @@
   <details align="center" class="details-example">
     <summary>☰ Github Details</summary>
   <samp>
+    <img src="https://komarev.com/ghpvc/?username=your-github-c-ent">
     <a href="https://github.com/c-ent?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="https://github.com/c-ent?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
      <a href="https://github.com/c-ent?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=HTML5&logoColor=white"></a>
