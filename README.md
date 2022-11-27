@@ -1,5 +1,8 @@
 
 <p align="center">
+  Hello I am <a href="c-ent.github.io"> Elher Encarnacion </a>
+  </br>
+  </br>
   「 A Software & Web Developer Student 」
 </p>
   
@@ -17,6 +20,6 @@
   </details>
   
 <p align="center">
-  By <a href="https://c-ent.github.io/">Elher Encarnacion</a>
+  By <a href="https://c-ent.github.io/">Cent</a>
 </p>    
 
