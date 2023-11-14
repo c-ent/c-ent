@@ -3,7 +3,7 @@
   Hello I am <a href="c-ent.github.io"> Elher Encarnacion </a> 👋
   </br>
   </br>
-  「 A Software & Web Developer Student 」
+  「 Fullstack Web Developer 」
   </br>
   </br>
 
