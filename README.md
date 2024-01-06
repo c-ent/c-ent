@@ -11,7 +11,6 @@
   <li>Web Development</li>
   <li>Software Engineering</li>
   <li>Game Development</li>
-  <li>Blockchain Development</li>
 
   </br>
   </div>
