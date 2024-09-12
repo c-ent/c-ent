@@ -26,6 +26,6 @@
   </details>
   
 <p align="center">
-  📫 My Website <a href="https://c-ent.github.io/">https://c-ent.github.io</a>
+  📫 My Website <a href="https://c-ent.dev/">https://c-ent.dev</a>
 </p>    
 
