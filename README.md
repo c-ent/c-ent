@@ -3,14 +3,9 @@
   Hello I am <a href="c-ent.github.io"> Elher Encarnacion </a> 👋
   </br>
   </br>
-  「 Web Developer 」
+    🌱「 Full-stack Web Developer 」
   </br>
   </br>
-
-  🌱 Interests:
-  <li>Web Development</li>
-  <li>Software Engineering</li>
-  <li>Game Development</li>
 
   </br>
   </div>
