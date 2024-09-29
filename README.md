@@ -1,4 +1,19 @@
-### 🛠️ Skills & Technologies
+# Hello, I'm Elher Encarnacion 👋
+
+<div align="center">
+  <a href="https://c-ent.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-c--ent.github.io-blue?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
+  <a href="https://c-ent.dev/">
+    <img src="https://img.shields.io/badge/Website-c--ent.dev-green?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+</div>
+
+## 🚀 About Me
+
+I'm a passionate Full-stack Web Developer with a knack for creating robust and user-friendly web applications. My journey in the world of coding has equipped me with a diverse set of skills, allowing me to tackle various challenges in web development.
+
+## 🛠️ Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
@@ -19,36 +34,34 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-</div>
-  
-<p align="center">
-  📫 Portfolio <a href="https://c-ent.dev/">https://c-ent.dev</a>
-</p>    
+## 🌱 What I'm currently learning
+
+I'm always looking to expand my skill set. Currently, I'm focusing on:
+
+- Advanced React patterns and performance optimization
+- Serverless architecture and cloud computing
+- Machine Learning basics and its applications in web development
+
+## 📊 GitHub Stats
 
 <div align="center">
-    Hello I am <a href="https://c-ent.github.io"> Elher Encarnacion </a> 👋
-    </br>
-    </br>
-      🌱「 Full-stack Web Developer 」
-    </br>
-    </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=c-ent&show_icons=true&theme=radical" alt="Elher's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-ent&theme=radical" alt="Elher's GitHub Streak">
 </div>
-    
-    <!-- <details align="center" class="details-example">
-        <summary>☰ Github Details</summary>
-      <samp>
-        <img src="https://komarev.com/ghpvc/?username=your-github-c-ent">
-        <a href="https://github.com/c-ent?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-        <a href="https://github.com/c-ent?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
-         <a href="https://github.com/c-ent?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=HTML5&logoColor=white"></a>
-         <a href="https://github.com/c-ent?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"></a>
-      <a href="https://github.com/c-ent?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
-        </br>
-      </samp>
-        <img id="theImage" src="https://github-readme-stats.vercel.app/api?username=c-ent&show_icons=true">
-      </details> -->
 
+## 📫 How to reach me
+
+- Website: [c-ent.dev](https://c-ent.dev/)
+- GitHub: [@c-ent](https://github.com/c-ent)
+- LinkedIn: [Add your LinkedIn profile URL here]
+- Email: [Add your professional email address here]
+
+## 💼 Open for opportunities
+
+I'm always open to new and exciting opportunities. If you have a project or position that aligns with my skills, feel free to reach out!
+
+---
 
 <div align="center">
-
-
+  <img src="https://komarev.com/ghpvc/?username=c-ent&color=blueviolet&style=flat-square" alt="Profile views">
+</div>
