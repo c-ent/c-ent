@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-### 👋 Hello, I'm Elher 
+##👋 Hello, I'm Elher 
 A Bachelor of Science graduate in Computer Engineering. I always strive for personal growth, having a strong desire for continuous learning and self-improvement. My journey through academic and the professional world has been driven by a strong desire to learn and acquire new skills. Committed to making a big difference in web and software development.
 
 ### How to reach me
