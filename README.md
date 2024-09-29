@@ -1,17 +1,3 @@
-# Hello, I'm Elher Encarnacion 👋
-
-<div align="center">
-  <a href="https://c-ent.dev/">
-    <img src="https://img.shields.io/badge/Website-c--ent.dev-green?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
-</div>
-
-## 🚀 About Me
-
-I'm a passionate Full-stack Web Developer dedicated to creating dynamic web applications and solving complex problems.
-
-## 🛠️ Skills & Technologies
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -31,12 +17,20 @@ I'm a passionate Full-stack Web Developer dedicated to creating dynamic web appl
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-
-## 📊 GitHub Stats
+### Hello, I'm Elher Encarnacion 👋
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-ent&theme=radical" alt="Elher's GitHub Streak">
+  <a href="https://c-ent.dev/">
+    <img src="https://img.shields.io/badge/Website-c--ent.dev-green?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
 </div>
+
+#### 🚀 About Me
+
+I'm a passionate Full-stack Web Developer dedicated to creating dynamic web applications and solving complex problems.
+
+
+
 
 
 <div align="center">
