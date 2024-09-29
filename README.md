@@ -28,6 +28,9 @@ A Bachelor of Science graduate in Computer Engineering. I always strive for pers
 
 
 
+<br>
+<br>
+
 <div align="left">
     <img src="https://profile-counter.glitch.me/%7Bc-ent%7D/count.svg" alt="Profile views">
 </div>
