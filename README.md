@@ -19,12 +19,6 @@
 
 ### Hello, I'm Elher Encarnacion 👋
 
-<div align="center">
-  <a href="https://c-ent.dev/">
-    <img src="https://img.shields.io/badge/Website-c--ent.dev-green?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
-</div>
-
 #### 🚀 About Me
 
 I'm a passionate Full-stack Web Developer dedicated to creating dynamic web applications and solving complex problems.
