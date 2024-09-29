@@ -28,10 +28,3 @@ A Bachelor of Science graduate in Computer Engineering. I always strive for pers
 
 
 
-<br>
-<br>
-
-<div align="left">
-    <img src="https://komarev.com/ghpvc/?username=c-ent&label=" alt="Profile views">
-</div>
-
