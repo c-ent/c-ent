@@ -20,7 +20,11 @@
 ### Hello, I'm Elher Encarnacion 
 A Bachelor of Science graduate in Computer Engineering. I always strive for personal growth, having a strong desire for continuous learning and self-improvement. My journey through academic and the professional world has been driven by a strong desire to learn and acquire new skills. Committed to making a big difference in web and software development.
 
+### How to reach me
 
+- Website: [c-ent.dev](https://c-ent.dev/)
+- GitHub: [@c-ent](https://github.com/c-ent)
+- Email: [encarnacionelher@gmail.com](mailto:encarnacionelher@gmail.com)
 
 
 
