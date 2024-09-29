@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-stack Web Developer. My journey in the world of development made me have a diverse set of skills.
+I'm a passionate Full-stack Web Developer dedicated to creating dynamic web applications and solving complex problems.
 
 ## 🛠️ Skills & Technologies
 
@@ -38,13 +38,6 @@ I'm a passionate Full-stack Web Developer. My journey in the world of developmen
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-ent&theme=radical" alt="Elher's GitHub Streak">
 </div>
 
-## 📫 How to reach me
-
-- Website: [c-ent.dev](https://c-ent.dev/)
-- GitHub: [@c-ent](https://github.com/c-ent)
-- Email: [encarnacionelher@gmail.com](mailto:encarnacionelher@gmail.com)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=c-ent&color=blueviolet&style=flat-square" alt="Profile views">
