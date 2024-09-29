@@ -27,4 +27,6 @@ A Bachelor of Science graduate in Computer Engineering. I always strive for pers
 - Email: [encarnacionelher@gmail.com](mailto:encarnacionelher@gmail.com)
 
 
-
+<br>
+<br>
+https://profile-counter.glitch.me/c-ent/count.svg
