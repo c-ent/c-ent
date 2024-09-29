@@ -29,6 +29,6 @@ A Bachelor of Science graduate in Computer Engineering. I always strive for pers
 
 
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=c-ent&label=&color=blue&style=for-the-badge" alt="Profile views">
+    <img src="https://profile-counter.glitch.me/%7Bc-ent%7D/count.svg" alt="Profile views">
 </div>
 
