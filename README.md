@@ -30,5 +30,5 @@ A Bachelor of Science graduate in Computer Engineering. I always strive for pers
 <br>
 <br>
 
-<img src="https://profile-counter.glitch.me/c-ent/count.svg">
+<img src="https://profile-counter.glitch.me/c-ent/count.svg" style="height:20px">
 
