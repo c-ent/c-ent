@@ -1,9 +1,6 @@
 # Hello, I'm Elher Encarnacion 👋
 
 <div align="center">
-  <a href="https://c-ent.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-c--ent.github.io-blue?style=for-the-badge&logo=github" alt="Portfolio">
-  </a>
   <a href="https://c-ent.dev/">
     <img src="https://img.shields.io/badge/Website-c--ent.dev-green?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
@@ -11,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-stack Web Developer with a knack for creating robust and user-friendly web applications. My journey in the world of coding has equipped me with a diverse set of skills, allowing me to tackle various challenges in web development.
+I'm a passionate Full-stack Web Developer. My journey in the world of development made me have a diverse set of skills.
 
 ## 🛠️ Skills & Technologies
 
@@ -34,18 +31,10 @@ I'm a passionate Full-stack Web Developer with a knack for creating robust and u
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-## 🌱 What I'm currently learning
-
-I'm always looking to expand my skill set. Currently, I'm focusing on:
-
-- Advanced React patterns and performance optimization
-- Serverless architecture and cloud computing
-- Machine Learning basics and its applications in web development
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c-ent&show_icons=true&theme=radical" alt="Elher's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=c-ent&theme=radical" alt="Elher's GitHub Streak">
 </div>
 
@@ -53,12 +42,7 @@ I'm always looking to expand my skill set. Currently, I'm focusing on:
 
 - Website: [c-ent.dev](https://c-ent.dev/)
 - GitHub: [@c-ent](https://github.com/c-ent)
-- LinkedIn: [Add your LinkedIn profile URL here]
-- Email: [Add your professional email address here]
-
-## 💼 Open for opportunities
-
-I'm always open to new and exciting opportunities. If you have a project or position that aligns with my skills, feel free to reach out!
+- Email: [encarnacionelher@gmail.com](mailto:encarnacionelher@gmail.com)
 
 ---
 
